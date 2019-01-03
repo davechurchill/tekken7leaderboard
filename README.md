@@ -23,7 +23,7 @@ The program works as follows:
 - Loops infinitely until you stop the program
 
 This program will not work until you do the following:
-- Generate a list of character / rank images of the correct size (sample code for doing this is given at the bottom of the program)
-- Change the hard-coded player name, character icon, and rank icon rectangle size / locations to fit your monitor / tekken resolution
+- Generate a list of character / rank images of the correct size (sample code for doing this is given at the bottom of the program). I am not putting my images online here because they are copyrighted.
+- Change the hard-coded player name, character icon, and rank icon rectangle size / locations to fit your monitor / tekken resolution. 
 
 Have fun! Pull requests gladly accepted (especially for things like different resolution box values)
